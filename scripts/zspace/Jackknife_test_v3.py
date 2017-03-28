@@ -194,7 +194,7 @@ print 'stdev=', stdev
 print end2-start2,'s'
 
 
-file=open('/Users/johntimlin/Highz_Clustering/Zspace_Clustering/jupyter_notebooks/SpSh_fullcorr_zcut45_v1.txt','w')
+file=open('Fullcorr_v1.txt','w')
 file.write('s DD DR RR Xifull sigmajk\n')
 for i in range(len(sep)):
 	s= sep[i]
@@ -207,7 +207,7 @@ for i in range(len(sep)):
 file.close()
 
 
-f=open('/Users/johntimlin/Highz_Clustering/Zspace_Clustering/jupyter_notebooks/SpSh_fullcorr_zcut45_jackknife_v1.txt','w')
+f=open('Fullcorr_JK_v1.txt','w')
 f.write('s RRjk Xijk \n')
 for i in range(len(slopes)-1):
 	for j in range(len(RRjk[i])):
