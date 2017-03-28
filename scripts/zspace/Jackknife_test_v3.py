@@ -11,7 +11,7 @@ start=time()
 
 #Import data here
 #obs=pf.open('SpIES_highz_cartesian_coords.fits')[1].data
-obs=pf.open('/Users/johntimlin/Highz_Clustering/Zspace_Clustering/jupyter_notebooks/QSO_candidates_highz_cartesian_werr_zcut45.fits')[1].data
+obs=pf.open('./QSO_candidates_highz_cartesian_werr_zcut45.fits')[1].data
 
 bdx=(obs.datx!=0)
 
