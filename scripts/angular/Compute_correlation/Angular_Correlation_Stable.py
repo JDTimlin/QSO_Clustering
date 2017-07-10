@@ -14,12 +14,13 @@ thetarad=10**th
 
 #Triton path to the data and random files
 #file1='../Data_Sets/Candidates_photoz_SpSh_shenzrange_tocluster.fits'
-file1='../../data/QSO_Candidates_allcuts_with_errors_and_zspec.fits'
-file2='../../data/rand100x_kderf_samp.fits'
+#file1='/Users/johntimlin/Catalogs/QSO_candidates/photoz/jupyter_notebooks/QSO_Candidates_40prob_maxz.fits'
+file1='../Data_Sets/QSO_Candidates_allcuts_with_errors_visualinsp.fits'
+file2='../Data_Sets/rand_obj_newset.fits'
 
 #Names of the output files
-fullsamp = "./SpSh_angcor_obj2.txt"
-jackknife = "./SpSh_angcor_obj2_JK.txt"
+fullsamp = "./Final_Angcor_Result_deccut_lowz.txt"
+jackknife = "./Final_Angcor_Result_deccut_lowz_JK.txt"
 
 
 #Open the data with fits
@@ -33,16 +34,19 @@ fdx = ((data.ra>=344.1) | (data.ra < 330))&  (data.Ag<=0.21)# & (data.zphotNW>=2
 classification = (data.ypredBAG+data.ypredSVM+data.ypredRFC)
 imag = 22.5-2.5*np.log10(data.iflux)
 
-#dx = ((data.zphotNW>=2.9) & (data.zphotNW<=5.4)) & ((fdx) |(classification <2)) & (data.Highprob ==1) & (abs(data.zphotNW - data.zPDE)<1) #& (imag>20.2)
 
-dx = ((data.zphotNW>=2.9) & (data.zphotNW< 5.4)) & ((fdx) | (classification < 2)) #& (data.Highprob ==1) & (abs(data.zphotNW - data.zPDE)<0.3) #& (imag>20.2)
+
+dx = ((data.zphotNW>=2.9) & (data.zphotNW< 3.4) & (data.Good_obj == 0)& (data.dec>=-1.2) & (data.dec<=1.2)) & ((fdx) | (classification < 2))
 
 datra = data.ra[dx]
 datdec = data.dec[dx]
 
+
+
+
 datvect = np.concatenate((np.array([datra]).T,np.array([datdec]).T),axis = 1)
 
-rdx = () #((data2.RA>=344.1) | (data2.RA < 330)) & (data2.DEC>=-1.5) & (data2.DEC<=1.5) # 
+rdx = ((data2.DEC>=-1.2) & (data2.DEC<=1.2)) #((data2.RA>=344.1) | (data2.RA < 330)) & (data2.DEC>=-1.5) & (data2.DEC<=1.5) # 
 
 randra = data2.RA[rdx]
 randdec = data2.DEC[rdx]
