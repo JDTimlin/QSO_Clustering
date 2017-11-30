@@ -1,0 +1,656 @@
+\begin{thebibliography}{94}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Alam} {et~al.}(2016){Alam}, {Ata}, {Bailey}, {Beutler}, {Bizyaev},
+  {Blazek}, {Bolton}, {Brownstein}, {Burden}, {Chuang}, {Comparat}, {Cuesta},
+  {Dawson}, {Eisenstein}, {Escoffier}, {Gil-Mar{\'{\i}}n}, {Grieb}, {Hand},
+  {Ho}, {Kinemuchi}, {Kirkby}, {Kitaura}, {Malanushenko}, {Malanushenko},
+  {Maraston}, {McBride}, {Nichol}, {Olmstead}, {Oravetz}, {Padmanabhan},
+  {Palanque-Delabrouille}, {Pan}, {Pellejero-Ibanez}, {Percival}, {Petitjean},
+  {Prada}, {Price-Whelan}, {Reid}, {Rodr{\'{\i}}guez-Torres}, {Roe}, {Ross},
+  {Ross}, {Rossi}, {Rubi{\~n}o-Mart{\'{\i}}n}, {S{\'a}nchez}, {Saito},
+  {Salazar-Albornoz}, {Samushia}, {Satpathy}, {Sc{\'o}ccola}, {Schlegel},
+  {Schneider}, {Seo}, {Simmons}, {Slosar}, {Strauss}, {Swanson}, {Thomas},
+  {Tinker}, {Tojeiro}, {Vargas Maga{\~n}a}, {Vazquez}, {Verde}, {Wake}, {Wang},
+  {Weinberg}, {White}, {Wood-Vasey}, {Y{\`e}che}, {Zehavi}, {Zhai}, \&
+  {Zhao}}]{Alam2016}
+{Alam}, S., {Ata}, M., {Bailey}, S., {et~al.} 2016, ArXiv e-prints,
+  \href{http://arxiv.org/abs/1607.03155}{{\sffamily arXiv:1607.03155}}
+
+\bibitem[{{Annis} {et~al.}(2014){Annis}, {Soares-Santos}, {Strauss}, {Becker},
+  {Dodelson}, {Fan}, {Gunn}, {Hao}, {Ivezi{\'c}}, {Jester}, {Jiang},
+  {Johnston}, {Kubo}, {Lampeitl}, {Lin}, {Lupton}, {Miknaitis}, {Seo}, {Simet},
+  \& {Yanny}}]{Annis2014}
+{Annis}, J., {Soares-Santos}, M., {Strauss}, M.~A., {et~al.} 2014,
+  \href{http://dx.doi.org/10.1088/0004-637X/794/2/120}{\apj, 794, 120}
+
+\bibitem[{{Assef} {et~al.}(2010){Assef}, {Kochanek}, {Brodwin}, {Cool},
+  {Forman}, {Gonzalez}, {Hickox}, {Jones}, {Le Floc'h}, {Moustakas}, {Murray},
+  \& {Stern}}]{Assef2010}
+{Assef}, R.~J., {Kochanek}, C.~S., {Brodwin}, M., {et~al.} 2010,
+  \href{http://dx.doi.org/10.1088/0004-637X/713/2/970}{\apj, 713, 970}
+
+\bibitem[{{Astropy Collaboration} {et~al.}(2013){Astropy Collaboration},
+  Robitaille, Tollerud, Greenfield, Droettboom, Bray, Aldcroft, Davis,
+  Ginsburg, Price-Whelan, Kerzendorf, Conley, Crighton, Barbary, Muna,
+  Ferguson, Grollier, Parikh, Nair, Unther, Deil, Woillez, Conseil, Kramer,
+  Turner, Singer, Fox, Weaver, Zabalza, Edwards, Azalee~Bostroem, Burke, Casey,
+  Crawford, Dencheva, Ely, Jenness, Labrie, Lim, Pierfederici, Pontzen, Ptak,
+  Refsdal, Servillat, \& Streicher}]{astropy}
+{Astropy Collaboration}, Robitaille, T.~P., Tollerud, E.~J., {et~al.} 2013,
+  \href{http://dx.doi.org/10.1051/0004-6361/201322068}{\aap, 558, A33}
+
+\bibitem[{{Ata} {et~al.}(2017){Ata}, {Baumgarten}, {Bautista}, {Beutler},
+  {Bizyaev}, {Blanton}, {Blazek}, {Bolton}, {Brinkmann}, {Brownstein},
+  {Burtin}, {Chuang}, {Comparat}, {Dawson}, {de la Macorra}, {Du}, {du Mas des
+  Bourboux}, {Eisenstein}, {Gil-Marin}, {Grabowski}, {Guy}, {Hand}, {Ho},
+  {Hutchinson}, {Ivanov}, {Kitaura}, {Kneib}, {Laurent}, {Le Goff}, {McEwen},
+  {Mueller}, {Myers}, {Newman}, {Palanque-Delabrouille}, {Pan}, {Paris},
+  {Pellejero-Ibanez}, {Percival}, {Petitjean}, {Prada}, {Prakash},
+  {Rodriguez-Torres}, {Ross}, {Rossi}, {Ruggeri}, {Sanchez}, {Satpathy},
+  {Schlegel}, {Schneider}, {Seo}, {Slosar}, {Streblyanska}, {Tinker},
+  {Tojeiro}, {Vargas Magana}, {Vivek}, {Wang}, {Yeche}, {Yu}, {Zarrouk},
+  {Zhao}, {Zhao}, \& {Zhu}}]{Ata2017}
+{Ata}, M., {Baumgarten}, F., {Bautista}, J., {et~al.} 2017, ArXiv e-prints,
+  \href{http://arxiv.org/abs/1705.06373}{{\sffamily arXiv:1705.06373}}
+
+\bibitem[{{Bautista} {et~al.}(2017){Bautista}, {Busca}, {Guy}, {Rich},
+  {Blomqvist}, {du Mas des Bourboux}, {Pieri}, {Font-Ribera}, {Bailey},
+  {Delubac}, {Kirkby}, {Le Goff}, {Margala}, {Slosar}, {Vazquez}, {Brownstein},
+  {Dawson}, {Eisenstein}, {Miralda-Escud{\'e}}, {Noterdaeme},
+  {Palanque-Delabrouille}, {P{\^a}ris}, {Petitjean}, {Ross}, {Schneider},
+  {Weinberg}, \& {Y{\`e}che}}]{Bautista2017}
+{Bautista}, J.~E., {Busca}, N.~G., {Guy}, J., {et~al.} 2017, ArXiv e-prints,
+  \href{http://arxiv.org/abs/1702.00176}{{\sffamily arXiv:1702.00176}}
+
+\bibitem[{{Bell}(2008)}]{Bell2008}
+{Bell}, E.~F. 2008, \href{http://dx.doi.org/10.1086/589551}{\apj, 682, 355}
+
+\bibitem[{{Bonometto} {et~al.}(2002){Bonometto}, {Gorini}, \&
+  {Moschella}}]{Bonometto2002}
+{Bonometto}, S., {Gorini}, V., \& {Moschella}, U., eds. 2002, {Modern
+  cosmology}
+
+\bibitem[{{Bovy} {et~al.}(2011){Bovy}, {Hennawi}, {Hogg}, {Myers}, \&
+  {Ross}}]{Bovy2011}
+{Bovy}, J., {Hennawi}, J.~F., {Hogg}, D.~W., {Myers}, A.~D., \& {Ross}, N.~P.
+  2011, in Bulletin of the American Astronomical Society, Vol.~43, American
+  Astronomical Society Meeting Abstracts \#217, 222.05
+
+\bibitem[{{Bower} {et~al.}(2017){Bower}, {Schaye}, {Frenk}, {Theuns},
+  {Schaller}, {Crain}, \& {McAlpine}}]{Bower2017}
+{Bower}, R.~G., {Schaye}, J., {Frenk}, C.~S., {et~al.} 2017,
+  \href{http://dx.doi.org/10.1093/mnras/stw2735}{\mnras, 465, 32}
+
+\bibitem[{{Boyle} {et~al.}(2000){Boyle}, {Shanks}, {Croom}, {Smith}, {Miller},
+  {Loaring}, \& {Heymans}}]{Boyle2000}
+{Boyle}, B.~J., {Shanks}, T., {Croom}, S.~M., {et~al.} 2000,
+  \href{http://dx.doi.org/10.1046/j.1365-8711.2000.03730.x}{\mnras, 317, 1014}
+
+\bibitem[{{Brewer}(2008)}]{Brewer2008}
+{Brewer}, J. 2008, PhD thesis, University of Pittsburgh
+
+\bibitem[{{Chehade} {et~al.}(2016){Chehade}, {Shanks}, {Findlay}, {Metcalfe},
+  {Sawangwit}, {Irwin}, {Gonz{\'a}lez-Solares}, {Fine}, {Drinkwater}, {Croom},
+  {Jurek}, {Parkinson}, \& {Bielby}}]{Chehade2016}
+{Chehade}, B., {Shanks}, T., {Findlay}, J., {et~al.} 2016,
+  \href{http://dx.doi.org/10.1093/mnras/stw616}{\mnras, 459, 1179}
+
+\bibitem[{{Croom} {et~al.}(2004){Croom}, {Boyle}, {Shanks}, {Outram}, {Myers},
+  {Smith}, {Miller}, {Lopes}, {Loaring}, \& {Hoyle}}]{Croom2004}
+{Croom}, S., {Boyle}, B., {Shanks}, T., {et~al.} 2004,
+  \href{http://dx.doi.org/10.1142/9789812702432_0015}{in Multiwavelength AGN
+  Surveys, ed. R.~{M{\'u}jica} \& R.~{Maiolino}}, 57
+
+\bibitem[{{Croom} {et~al.}(2005){Croom}, {Boyle}, {Shanks}, {Smith}, {Miller},
+  {Outram}, {Loaring}, {Hoyle}, \& {da {\^A}ngela}}]{Croom2005}
+{Croom}, S.~M., {Boyle}, B.~J., {Shanks}, T., {et~al.} 2005,
+  \href{http://dx.doi.org/10.1111/j.1365-2966.2004.08379.x}{\mnras, 356, 415}
+
+\bibitem[{{da {\^A}ngela} {et~al.}(2008){da {\^A}ngela}, {Shanks}, {Croom},
+  {Weilbacher}, {Brunner}, {Couch}, {Miller}, {Myers}, {Nichol}, {Pimbblet},
+  {de Propris}, {Richards}, {Ross}, {Schneider}, \& {Wake}}]{daAngela2008}
+{da {\^A}ngela}, J., {Shanks}, T., {Croom}, S.~M., {et~al.} 2008,
+  \href{http://dx.doi.org/10.1111/j.1365-2966.2007.12552.x}{\mnras, 383, 565}
+
+\bibitem[{{Dawson} {et~al.}(2013){Dawson}, {Schlegel}, {Ahn}, {Anderson},
+  {Aubourg}, {Bailey}, {Barkhouser}, {Bautista}, {Beifiori}, {Berlind},
+  {Bhardwaj}, {Bizyaev}, {Blake}, {Blanton}, {Blomqvist}, {Bolton}, {Borde},
+  {Bovy}, {Brandt}, {Brewington}, {Brinkmann}, {Brown}, {Brownstein}, {Bundy},
+  {Busca}, {Carithers}, {Carnero}, {Carr}, {Chen}, {Comparat}, {Connolly},
+  {Cope}, {Croft}, {Cuesta}, {da Costa}, {Davenport}, {Delubac}, {de Putter},
+  {Dhital}, {Ealet}, {Ebelke}, {Eisenstein}, {Escoffier}, {Fan}, {Filiz Ak},
+  {Finley}, {Font-Ribera}, {G{\'e}nova-Santos}, {Gunn}, {Guo}, {Haggard},
+  {Hall}, {Hamilton}, {Harris}, {Harris}, {Ho}, {Hogg}, {Holder}, {Honscheid},
+  {Huehnerhoff}, {Jordan}, {Jordan}, {Kauffmann}, {Kazin}, {Kirkby}, {Klaene},
+  {Kneib}, {Le Goff}, {Lee}, {Long}, {Loomis}, {Lundgren}, {Lupton}, {Maia},
+  {Makler}, {Malanushenko}, {Malanushenko}, {Mandelbaum}, {Manera}, {Maraston},
+  {Margala}, {Masters}, {McBride}, {McDonald}, {McGreer}, {McMahon}, {Mena},
+  {Miralda-Escud{\'e}}, {Montero-Dorta}, {Montesano}, {Muna}, {Myers},
+  {Naugle}, {Nichol}, {Noterdaeme}, {Nuza}, {Olmstead}, {Oravetz}, {Oravetz},
+  {Owen}, {Padmanabhan}, {Palanque-Delabrouille}, {Pan}, {Parejko},
+  {P{\^a}ris}, {Percival}, {P{\'e}rez-Fournon}, {P{\'e}rez-R{\`a}fols},
+  {Petitjean}, {Pfaffenberger}, {Pforr}, {Pieri}, {Prada}, {Price-Whelan},
+  {Raddick}, {Rebolo}, {Rich}, {Richards}, {Rockosi}, {Roe}, {Ross}, {Ross},
+  {Rossi}, {Rubi{\~n}o-Martin}, {Samushia}, {S{\'a}nchez}, {Sayres}, {Schmidt},
+  {Schneider}, {Sc{\'o}ccola}, {Seo}, {Shelden}, {Sheldon}, {Shen}, {Shu},
+  {Slosar}, {Smee}, {Snedden}, {Stauffer}, {Steele}, {Strauss}, {Streblyanska},
+  {Suzuki}, {Swanson}, {Tal}, {Tanaka}, {Thomas}, {Tinker}, {Tojeiro},
+  {Tremonti}, {Vargas Maga{\~n}a}, {Verde}, {Viel}, {Wake}, {Watson}, {Weaver},
+  {Weinberg}, {Weiner}, {West}, {White}, {Wood-Vasey}, {Yeche}, {Zehavi},
+  {Zhao}, \& {Zheng}}]{Dawson2013}
+{Dawson}, K.~S., {Schlegel}, D.~J., {Ahn}, C.~P., {et~al.} 2013,
+  \href{http://dx.doi.org/10.1088/0004-6256/145/1/10}{\aj, 145, 10}
+
+\bibitem[{{Dawson} {et~al.}(2016){Dawson}, {Kneib}, {Percival}, {Alam},
+  {Albareti}, {Anderson}, {Armengaud}, {Aubourg}, {Bailey}, {Bautista},
+  {Berlind}, {Bershady}, {Beutler}, {Bizyaev}, {Blanton}, {Blomqvist},
+  {Bolton}, {Bovy}, {Brandt}, {Brinkmann}, {Brownstein}, {Burtin}, {Busca},
+  {Cai}, {Chuang}, {Clerc}, {Comparat}, {Cope}, {Croft}, {Cruz-Gonzalez}, {da
+  Costa}, {Cousinou}, {Darling}, {de la Macorra}, {de la Torre}, {Delubac}, {du
+  Mas des Bourboux}, {Dwelly}, {Ealet}, {Eisenstein}, {Eracleous}, {Escoffier},
+  {Fan}, {Finoguenov}, {Font-Ribera}, {Frinchaboy}, {Gaulme}, {Georgakakis},
+  {Green}, {Guo}, {Guy}, {Ho}, {Holder}, {Huehnerhoff}, {Hutchinson}, {Jing},
+  {Jullo}, {Kamble}, {Kinemuchi}, {Kirkby}, {Kitaura}, {Klaene}, {Laher},
+  {Lang}, {Laurent}, {Le Goff}, {Li}, {Liang}, {Lima}, {Lin}, {Lin}, {Lin},
+  {Long}, {Lundgren}, {MacDonald}, {Geimba Maia}, {Malanushenko},
+  {Malanushenko}, {Mariappan}, {McBride}, {McGreer}, {M{\'e}nard}, {Merloni},
+  {Meza}, {Montero-Dorta}, {Muna}, {Myers}, {Nandra}, {Naugle}, {Newman},
+  {Noterdaeme}, {Nugent}, {Ogando}, {Olmstead}, {Oravetz}, {Oravetz},
+  {Padmanabhan}, {Palanque-Delabrouille}, {Pan}, {Parejko}, {P{\^a}ris},
+  {Peacock}, {Petitjean}, {Pieri}, {Pisani}, {Prada}, {Prakash}, {Raichoor},
+  {Reid}, {Rich}, {Ridl}, {Rodriguez-Torres}, {Carnero Rosell}, {Ross},
+  {Rossi}, {Ruan}, {Salvato}, {Sayres}, {Schneider}, {Schlegel}, {Seljak},
+  {Seo}, {Sesar}, {Shandera}, {Shu}, {Slosar}, {Sobreira}, {Streblyanska},
+  {Suzuki}, {Taylor}, {Tao}, {Tinker}, {Tojeiro}, {Vargas-Maga{\~n}a}, {Wang},
+  {Weaver}, {Weinberg}, {White}, {Wood-Vasey}, {Yeche}, {Zhai}, {Zhao}, {Zhao},
+  {Zheng}, {Ben Zhu}, \& {Zou}}]{Dawson2016}
+{Dawson}, K.~S., {Kneib}, J.-P., {Percival}, W.~J., {et~al.} 2016,
+  \href{http://dx.doi.org/10.3847/0004-6256/151/2/44}{\aj, 151, 44}
+
+\bibitem[{{Dekel} \& {Lahav}(1999)}]{DekelLahav1999}
+{Dekel}, A., \& {Lahav}, O. 1999, \href{http://dx.doi.org/10.1086/307428}{\apj,
+  520, 24}
+
+\bibitem[{{DiPompeo} {et~al.}(2016){DiPompeo}, {Hickox}, \&
+  {Myers}}]{DiPompeo2016}
+{DiPompeo}, M.~A., {Hickox}, R.~C., \& {Myers}, A.~D. 2016,
+  \href{http://dx.doi.org/10.1093/mnras/stv2681}{\mnras, 456, 924}
+
+\bibitem[{{DiPompeo} {et~al.}(2014){DiPompeo}, {Myers}, {Hickox}, {Geach}, \&
+  {Hainline}}]{DiPompeo2014}
+{DiPompeo}, M.~A., {Myers}, A.~D., {Hickox}, R.~C., {Geach}, J.~E., \&
+  {Hainline}, K.~N. 2014,
+  \href{http://dx.doi.org/10.1093/mnras/stu1115}{\mnras, 442, 3443}
+
+\bibitem[{{DiPompeo} {et~al.}(2015){DiPompeo}, {Myers}, {Hickox}, {Geach},
+  {Holder}, {Hainline}, \& {Hall}}]{DiPompeo2015}
+{DiPompeo}, M.~A., {Myers}, A.~D., {Hickox}, R.~C., {et~al.} 2015,
+  \href{http://dx.doi.org/10.1093/mnras/stu2341}{\mnras, 446, 3492}
+
+\bibitem[{{Donley} {et~al.}(2012){Donley}, {Koekemoer}, {Brusa}, {Capak},
+  {Cardamone}, {Civano}, {Ilbert}, {Impey}, {Kartaltepe}, {Miyaji}, {Salvato},
+  {Sanders}, {Trump}, \& {Zamorani}}]{Donley2012}
+{Donley}, J.~L., {Koekemoer}, A.~M., {Brusa}, M., {et~al.} 2012,
+  \href{http://dx.doi.org/10.1088/0004-637X/748/2/142}{\apj, 748, 142}
+
+\bibitem[{{Donoso} {et~al.}(2014){Donoso}, {Yan}, {Stern}, \&
+  {Assef}}]{Donoso2014}
+{Donoso}, E., {Yan}, L., {Stern}, D., \& {Assef}, R.~J. 2014,
+  \href{http://dx.doi.org/10.1088/0004-637X/789/1/44}{\apj, 789, 44}
+
+\bibitem[{{Eftekharzadeh} {et~al.}(2015){Eftekharzadeh}, {Myers}, {White},
+  {Weinberg}, {Schneider}, {Shen}, {Font-Ribera}, {Ross}, {Paris}, \&
+  {Streblyanska}}]{Eft2015}
+{Eftekharzadeh}, S., {Myers}, A.~D., {White}, M., {et~al.} 2015,
+  \href{http://dx.doi.org/10.1093/mnras/stv1763}{\mnras, 453, 2779}
+
+\bibitem[{{Eisenstein} {et~al.}(2011){Eisenstein}, {Weinberg}, {Agol},
+  {Aihara}, {Allende Prieto}, {Anderson}, {Arns}, {Aubourg}, {Bailey},
+  {Balbinot}, \& et~al.}]{Eisenstein2011}
+{Eisenstein}, D.~J., {Weinberg}, D.~H., {Agol}, E., {et~al.} 2011,
+  \href{http://dx.doi.org/10.1088/0004-6256/142/3/72}{\aj, 142, 72}
+
+\bibitem[{{Fabricant} {et~al.}(2005){Fabricant}, {Fata}, {Roll}, {Hertz},
+  {Caldwell}, {Gauron}, {Geary}, {McLeod}, {Szentgyorgyi}, {Zajac}, {Kurtz},
+  {Barberis}, {Bergner}, {Brown}, {Conroy}, {Eng}, {Geller}, {Goddard},
+  {Honsa}, {Mueller}, {Mink}, {Ordway}, {Tokarz}, {Woods}, {Wyatt}, {Epps}, \&
+  {Dell'Antonio}}]{Fabricant2005}
+{Fabricant}, D., {Fata}, R., {Roll}, J., {et~al.} 2005,
+  \href{http://dx.doi.org/10.1086/497385}{\pasp, 117, 1411}
+
+\bibitem[{{Feigelson} \& {Babu}(2012)}]{Feigelson2012}
+{Feigelson}, E.~D., \& {Babu}, G.~J. 2012, {Modern Statistical Methods for
+  Astronomy}
+
+\bibitem[{{Font-Ribera} {et~al.}(2013){Font-Ribera}, {Arnau},
+  {Miralda-Escud{\'e}}, {Rollinde}, {Brinkmann}, {Brownstein}, {Lee}, {Myers},
+  {Palanque-Delabrouille}, {P{\^a}ris}, {Petitjean}, {Rich}, {Ross},
+  {Schneider}, \& {White}}]{FontRibera2013}
+{Font-Ribera}, A., {Arnau}, E., {Miralda-Escud{\'e}}, J., {et~al.} 2013,
+  \href{http://dx.doi.org/10.1088/1475-7516/2013/05/018}{\jcap, 5, 018}
+
+\bibitem[{{Fukugita} {et~al.}(1996){Fukugita}, {Ichikawa}, {Gunn}, {Doi},
+  {Shimasaku}, \& {Schneider}}]{Fukugita1996}
+{Fukugita}, M., {Ichikawa}, T., {Gunn}, J.~E., {et~al.} 1996,
+  \href{http://dx.doi.org/10.1086/117915}{\aj, 111, 1748}
+
+\bibitem[{Gardner {et~al.}(2006)Gardner, Mather, Clampin, Doyon, Greenhouse,
+  Hammel, Hutchings, Jakobsen, Lilly, Long, Lunine, Mccaughrean, Mountain,
+  Nella, Rieke, Rieke, Rix, Smith, Sonneborn, Stiavelli, Stockman, Windhorst,
+  \& Wright}]{Gardner2006}
+Gardner, J.~P., Mather, J.~C., Clampin, M., {et~al.} 2006,
+  \href{http://dx.doi.org/10.1007/s11214-006-8315-7}{Space Science Reviews,
+  123, 485}
+
+\bibitem[{{Geach} {et~al.}(2013){Geach}, {Hickox}, {Bleem}, {Brodwin},
+  {Holder}, {Aird}, {Benson}, {Bhattacharya}, {Carlstrom}, {Chang}, {Cho},
+  {Crawford}, {Crites}, {de Haan}, {Dobbs}, {Dudley}, {George}, {Hainline},
+  {Halverson}, {Holzapfel}, {Hoover}, {Hou}, {Hrubes}, {Keisler}, {Knox},
+  {Lee}, {Leitch}, {Lueker}, {Luong-Van}, {Marrone}, {McMahon}, {Mehl},
+  {Meyer}, {Millea}, {Mohr}, {Montroy}, {Myers}, {Padin}, {Plagge}, {Pryke},
+  {Reichardt}, {Ruhl}, {Sayre}, {Schaffer}, {Shaw}, {Shirokoff}, {Spieler},
+  {Staniszewski}, {Stark}, {Story}, {van Engelen}, {Vanderlinde}, {Vieira},
+  {Williamson}, \& {Zahn}}]{Geach2013}
+{Geach}, J.~E., {Hickox}, R.~C., {Bleem}, L.~E., {et~al.} 2013,
+  \href{http://dx.doi.org/10.1088/2041-8205/776/2/L41}{\apjl, 776, L41}
+
+\bibitem[{{He} {et~al.}(2017){He}, {Akiyama}, {Bosch}, {Enoki}, {Harikane},
+  {Ikeda}, {Kashikawa}, {Kawaguchi}, {Komiyama}, {Lee}, {Matsuoka}, {Miyazaki},
+  {Nagao}, {Nagashima}, {Niida}, {Nishizawa}, {Oguri}, {Onoue}, {Oogi},
+  {Ouchi}, {Schulze}, {Shirasaki}, {Silverman}, {Tanaka}, {Tanaka}, {Toba},
+  {Uchiyama}, \& {Yamashita}}]{He2017}
+{He}, W., {Akiyama}, M., {Bosch}, J., {et~al.} 2017, ArXiv e-prints,
+  \href{http://arxiv.org/abs/1704.08461}{{\sffamily arXiv:1704.08461}}
+
+\bibitem[{{Hickox} {et~al.}(2007){Hickox}, {Jones}, {Forman}, {Murray},
+  {Brodwin}, {Brown}, {Eisenhardt}, {Stern}, {Kochanek}, {Eisenstein}, {Cool},
+  {Jannuzi}, {Dey}, {Brand}, {Gorjian}, \& {Caldwell}}]{Hickox2007}
+{Hickox}, R.~C., {Jones}, C., {Forman}, W.~R., {et~al.} 2007,
+  \href{http://dx.doi.org/10.1086/523082}{\apj, 671, 1365}
+
+\bibitem[{{Hickox} {et~al.}(2009){Hickox}, {Jones}, {Forman}, {Murray},
+  {Kochanek}, {Eisenstein}, {Jannuzi}, {Dey}, {Brown}, {Stern}, {Eisenhardt},
+  {Gorjian}, {Brodwin}, {Narayan}, {Cool}, {Kenter}, {Caldwell}, \&
+  {Anderson}}]{Hickox2009}
+---. 2009, \href{http://dx.doi.org/10.1088/0004-637X/696/1/891}{\apj, 696, 891}
+
+\bibitem[{{Hickox} {et~al.}(2011){Hickox}, {Myers}, {Brodwin}, {Alexander},
+  {Forman}, {Jones}, {Murray}, {Brown}, {Cool}, {Kochanek}, {Dey}, {Jannuzi},
+  {Eisenstein}, {Assef}, {Eisenhardt}, {Gorjian}, {Stern}, {Le Floc'h},
+  {Caldwell}, {Goulding}, \& {Mullaney}}]{Hickox2011}
+{Hickox}, R.~C., {Myers}, A.~D., {Brodwin}, M., {et~al.} 2011,
+  \href{http://dx.doi.org/10.1088/0004-637X/731/2/117}{\apj, 731, 117}
+
+\bibitem[{{Hill} {et~al.}(2008){Hill}, {MacQueen}, {Palunas}, {Barnes}, \&
+  {Shetrone}}]{Hill2008}
+{Hill}, G.~J., {MacQueen}, P.~J., {Palunas}, P., {Barnes}, S.~I., \&
+  {Shetrone}, M.~D. 2008, \href{http://dx.doi.org/10.1117/12.788225}{in
+  \procspie, Vol. 7014, Ground-based and Airborne Instrumentation for Astronomy
+  II}, 701406
+
+\bibitem[{{Hopkins} {et~al.}(2007){Hopkins}, {Lidz}, {Hernquist}, {Coil},
+  {Myers}, {Cox}, \& {Spergel}}]{Hopkins2007}
+{Hopkins}, P.~F., {Lidz}, A., {Hernquist}, L., {et~al.} 2007,
+  \href{http://dx.doi.org/10.1086/517512}{\apj, 662, 110}
+
+\bibitem[{{Ivezi{\'c}} {et~al.}(2014){Ivezi{\'c}}, {Connelly}, {VanderPlas}, \&
+  {Gray}}]{Ivezic2014}
+{Ivezi{\'c}}, {\v Z}., {Connelly}, A.~J., {VanderPlas}, J.~T., \& {Gray}, A.
+  2014, {Statistics, Data Mining, and Machine Learningin Astronomy}
+
+\bibitem[{{Jiang} {et~al.}(2014){Jiang}, {Fan}, {Bian}, {McGreer}, {Strauss},
+  {Annis}, {Buck}, {Green}, {Hodge}, {Myers}, {Rafiee}, \&
+  {Richards}}]{Jiang2014}
+{Jiang}, L., {Fan}, X., {Bian}, F., {et~al.} 2014,
+  \href{http://dx.doi.org/10.1088/0067-0049/213/1/12}{\apjs, 213, 12}
+
+\bibitem[{{Krolewski} \& {Eisenstein}(2015)}]{Krolewski2015}
+{Krolewski}, A.~G., \& {Eisenstein}, D.~J. 2015,
+  \href{http://dx.doi.org/10.1088/0004-637X/803/1/4}{\apj, 803, 4}
+
+\bibitem[{{Lacy} {et~al.}(2004){Lacy}, {Storrie-Lombardi}, {Sajina},
+  {Appleton}, {Armus}, {Chapman}, {Choi}, {Fadda}, {Fang}, {Frayer},
+  {Heinrichsen}, {Helou}, {Im}, {Marleau}, {Masci}, {Shupe}, {Soifer},
+  {Surace}, {Teplitz}, {Wilson}, \& {Yan}}]{Lacy2004}
+{Lacy}, M., {Storrie-Lombardi}, L.~J., {Sajina}, A., {et~al.} 2004,
+  \href{http://dx.doi.org/10.1086/422816}{\apjs, 154, 166}
+
+\bibitem[{{Landy} \& {Szalay}(1993)}]{Landy1993}
+{Landy}, S.~D., \& {Szalay}, A.~S. 1993,
+  \href{http://dx.doi.org/10.1086/172900}{\apj, 412, 64}
+
+\bibitem[{{Laurent} {et~al.}(2017){Laurent}, {Eftekharzadeh}, {Le Goff},
+  {Myers}, {Burtin}, {White}, {Ross}, {Tinker}, {Tojeiro}, {Bautista},
+  {Comparat}, {du Mas des Bourboux}, {Kneib}, {McGreer},
+  {Palanque-Delabrouille}, {Percival}, {Prada}, {Rossi}, {Schneider},
+  {Strauss}, {Weinberg}, {Y{\`e}che}, {Zarrouk}, \& {Zhao}}]{Laurent2017}
+{Laurent}, P., {Eftekharzadeh}, S., {Le Goff}, J.-M., {et~al.} 2017, ArXiv
+  e-prints, \href{http://arxiv.org/abs/1705.04718}{{\sffamily
+  arXiv:1705.04718}}
+
+\bibitem[{{Limber}(1953)}]{Limber1953}
+{Limber}, D.~N. 1953, \href{http://dx.doi.org/10.1086/145672}{\apj, 117, 134}
+
+\bibitem[{{LSST Science Collaboration} {et~al.}(2009){LSST Science
+  Collaboration}, {Abell}, {Allison}, {Anderson}, {Andrew}, {Angel}, {Armus},
+  {Arnett}, {Asztalos}, {Axelrod}, \& et~al.}]{Abell2009}
+{LSST Science Collaboration}, {Abell}, P.~A., {Allison}, J., {et~al.} 2009,
+  ArXiv e-prints, \href{http://arxiv.org/abs/0912.0201}{{\sffamily
+  arXiv:0912.0201 [astro-ph.IM]}}
+
+\bibitem[{{Lynden-Bell}(1969)}]{Lynden-Bell1969}
+{Lynden-Bell}, D. 1969, \href{http://dx.doi.org/10.1038/223690a0}{\nat, 223,
+  690}
+
+\bibitem[{{Martinez} \& {Saar}(2002)}]{MartinezSaar2002}
+{Martinez}, V., \& {Saar}, E. 2002,
+  \href{http://dx.doi.org/10.1117/12.461972}{in \procspie, Vol. 4847,
+  Astronomical Data Analysis II, ed. J.-L. {Starck} \& F.~D. {Murtagh}}, 86
+
+\bibitem[{{Mendez} {et~al.}(2016){Mendez}, {Coil}, {Aird}, {Skibba},
+  {Diamond-Stanic}, {Moustakas}, {Blanton}, {Cool}, {Eisenstein}, {Wong}, \&
+  {Zhu}}]{Mendez2016}
+{Mendez}, A.~J., {Coil}, A.~L., {Aird}, J., {et~al.} 2016,
+  \href{http://dx.doi.org/10.3847/0004-637X/821/1/55}{\apj, 821, 55}
+
+\bibitem[{{Myers} {et~al.}(2007){Myers}, {Brunner}, {Nichol}, {Richards},
+  {Schneider}, \& {Bahcall}}]{Myers2007}
+{Myers}, A.~D., {Brunner}, R.~J., {Nichol}, R.~C., {et~al.} 2007,
+  \href{http://dx.doi.org/10.1086/511519}{\apj, 658, 85}
+
+\bibitem[{{Myers} {et~al.}(2006){Myers}, {Brunner}, {Richards}, {Nichol},
+  {Schneider}, {Vanden Berk}, {Scranton}, {Gray}, \& {Brinkmann}}]{Myers2006}
+{Myers}, A.~D., {Brunner}, R.~J., {Richards}, G.~T., {et~al.} 2006,
+  \href{http://dx.doi.org/10.1086/499093}{\apj, 638, 622}
+
+\bibitem[{{Myers} {et~al.}(2015){Myers}, {Palanque-Delabrouille}, {Prakash},
+  {P{\^a}ris}, {Yeche}, {Dawson}, {Bovy}, {Lang}, {Schlegel}, {Newman},
+  {Petitjean}, {Kneib}, {Laurent}, {Percival}, {Ross}, {Seo}, {Tinker},
+  {Armengaud}, {Brownstein}, {Burtin}, {Cai}, {Comparat}, {Kasliwal},
+  {Kulkarni}, {Laher}, {Levitan}, {McBride}, {McGreer}, {Miller}, {Nugent},
+  {Ofek}, {Rossi}, {Ruan}, {Schneider}, {Sesar}, {Streblyanska}, \&
+  {Surace}}]{Myers2015}
+{Myers}, A.~D., {Palanque-Delabrouille}, N., {Prakash}, A., {et~al.} 2015,
+  \href{http://dx.doi.org/10.1088/0067-0049/221/2/27}{\apjs, 221, 27}
+
+\bibitem[{{Oke} \& {Gunn}(1983)}]{OkeGunn1983}
+{Oke}, J.~B., \& {Gunn}, J.~E. 1983,
+  \href{http://dx.doi.org/10.1086/160817}{\apj, 266, 713}
+
+\bibitem[{{Papovich} {et~al.}(2016){Papovich}, {Shipley}, {Mehrtens}, {Lanham},
+  {Lacy}, {Ciardullo}, {Finkelstein}, {Bassett}, {Behroozi}, {Blanc}, {de
+  Jong}, {DePoy}, {Drory}, {Gawiser}, {Gebhardt}, {Gronwall}, {Hill}, {Hopp},
+  {Jogee}, {Kawinwanichakij}, {Marshall}, {McLinden}, {Mentuch Cooper},
+  {Somerville}, {Steinmetz}, {Tran}, {Tuttle}, {Viero}, {Wechsler}, \&
+  {Zeimann}}]{Papovich2016}
+{Papovich}, C., {Shipley}, H.~V., {Mehrtens}, N., {et~al.} 2016,
+  \href{http://dx.doi.org/10.3847/0067-0049/224/2/28}{\apjs, 224, 28}
+
+\bibitem[{{P{\^a}ris} {et~al.}(2014){P{\^a}ris}, {Petitjean}, {Aubourg},
+  {Ross}, {Myers}, {Streblyanska}, {Bailey}, {Hall}, {Strauss}, {Anderson},
+  {Bizyaev}, {Borde}, {Brinkmann}, {Bovy}, {Brandt}, {Brewington},
+  {Brownstein}, {Cook}, {Ebelke}, {Fan}, {Filiz Ak}, {Finley}, {Font-Ribera},
+  {Ge}, {Hamann}, {Ho}, {Jiang}, {Kinemuchi}, {Malanushenko}, {Malanushenko},
+  {Marchante}, {McGreer}, {McMahon}, {Miralda-Escud{\'e}}, {Muna},
+  {Noterdaeme}, {Oravetz}, {Palanque-Delabrouille}, {Pan}, {Perez-Fournon},
+  {Pieri}, {Riffel}, {Schlegel}, {Schneider}, {Simmons}, {Viel}, {Weaver},
+  {Wood-Vasey}, {Y{\`e}che}, \& {York}}]{Paris2014}
+{P{\^a}ris}, I., {Petitjean}, P., {Aubourg}, {\'E}., {et~al.} 2014,
+  \href{http://dx.doi.org/10.1051/0004-6361/201322691}{\aap, 563, A54}
+
+\bibitem[{{Peacock}(1999)}]{Peacock_book1999}
+{Peacock}, J.~A. 1999, {Cosmological Physics}, 704
+
+\bibitem[{{Peebles}(1980)}]{Peebles1980}
+{Peebles}, P.~J.~E. 1980, {The large-scale structure of the universe}
+
+\bibitem[{{Planck Collaboration} {et~al.}(2016){Planck Collaboration}, {Ade},
+  {Aghanim}, {Arnaud}, {Ashdown}, {Aumont}, {Baccigalupi}, {Banday},
+  {Barreiro}, {Bartlett}, \& et~al.}]{Planck2016}
+{Planck Collaboration}, {Ade}, P.~A.~R., {Aghanim}, N., {et~al.} 2016,
+  \href{http://dx.doi.org/10.1051/0004-6361/201525830}{\aap, 594, A13}
+
+\bibitem[{{Porciani} {et~al.}(2004){Porciani}, {Magliocchetti}, \&
+  {Norberg}}]{Porciani2004}
+{Porciani}, C., {Magliocchetti}, M., \& {Norberg}, P. 2004,
+  \href{http://dx.doi.org/10.1111/j.1365-2966.2004.08408.x}{\mnras, 355, 1010}
+
+\bibitem[{{Rees}(1984)}]{Rees1984}
+{Rees}, M.~J. 1984,
+  \href{http://dx.doi.org/10.1146/annurev.aa.22.090184.002351}{\araa, 22, 471}
+
+\bibitem[{{Richards} {et~al.}(2001){Richards}, {Weinstein}, {Schneider}, {Fan},
+  {Strauss}, {Vanden Berk}, {Annis}, {Burles}, {Laubacher}, {York}, {Frieman},
+  {Johnston}, {Scranton}, {Gunn}, {Ivezi{\'c}}, {Nichol}, {Budav{\'a}ri},
+  {Csabai}, {Szalay}, {Connolly}, {Szokoly}, {Bahcall}, {Ben{\'{\i}}tez},
+  {Brinkmann}, {Brunner}, {Fukugita}, {Hall}, {Hennessy}, {Knapp}, {Kunszt},
+  {Lamb}, {Munn}, {Newberg}, \& {Stoughton}}]{Richards2001}
+{Richards}, G.~T., {Weinstein}, M.~A., {Schneider}, D.~P., {et~al.} 2001,
+  \href{http://dx.doi.org/10.1086/322132}{\aj, 122, 1151}
+
+\bibitem[{{Richards} {et~al.}(2004){Richards}, {Nichol}, {Gray}, {Brunner},
+  {Lupton}, {Vanden Berk}, {Chong}, {Weinstein}, {Schneider}, {Anderson},
+  {Munn}, {Harris}, {Strauss}, {Fan}, {Gunn}, {Ivezi{\'c}}, {York},
+  {Brinkmann}, \& {Moore}}]{Richards2004}
+{Richards}, G.~T., {Nichol}, R.~C., {Gray}, A.~G., {et~al.} 2004,
+  \href{http://dx.doi.org/10.1086/425356}{\apjs, 155, 257}
+
+\bibitem[{{Richards} {et~al.}(2006){Richards}, {Strauss}, {Fan}, {Hall},
+  {Jester}, {Schneider}, {Vanden Berk}, {Stoughton}, {Anderson}, {Brunner},
+  {Gray}, {Gunn}, {Ivezi{\'c}}, {Kirkland}, {Knapp}, {Loveday}, {Meiksin},
+  {Pope}, {Szalay}, {Thakar}, {Yanny}, {York}, {Barentine}, {Brewington},
+  {Brinkmann}, {Fukugita}, {Harvanek}, {Kent}, {Kleinman}, {Krzesi{\'n}ski},
+  {Long}, {Lupton}, {Nash}, {Neilsen}, {Nitta}, {Schlegel}, \&
+  {Snedden}}]{Richards2006}
+{Richards}, G.~T., {Strauss}, M.~A., {Fan}, X., {et~al.} 2006,
+  \href{http://dx.doi.org/10.1086/503559}{\aj, 131, 2766}
+
+\bibitem[{{Richards} {et~al.}(2009){Richards}, {Deo}, {Lacy}, {Myers},
+  {Nichol}, {Zakamska}, {Brunner}, {Brandt}, {Gray}, {Parejko}, {Ptak},
+  {Schneider}, {Storrie-Lombardi}, \& {Szalay}}]{Richards2009}
+{Richards}, G.~T., {Deo}, R.~P., {Lacy}, M., {et~al.} 2009,
+  \href{http://dx.doi.org/10.1088/0004-6256/137/4/3884}{\aj, 137, 3884}
+
+\bibitem[{{Richards} {et~al.}(2015){Richards}, {Myers}, {Peters}, {Krawczyk},
+  {Chase}, {Ross}, {Fan}, {Jiang}, {Lacy}, {McGreer}, {Trump}, \&
+  {Riegel}}]{Richards2015}
+{Richards}, G.~T., {Myers}, A.~D., {Peters}, C.~M., {et~al.} 2015,
+  \href{http://dx.doi.org/10.1088/0067-0049/219/2/39}{\apjs, 219, 39}
+
+\bibitem[{{Richstone} {et~al.}(1998){Richstone}, {Ajhar}, {Bender}, {Bower},
+  {Dressler}, {Faber}, {Filippenko}, {Gebhardt}, {Green}, {Ho}, {Kormendy},
+  {Lauer}, {Magorrian}, \& {Tremaine}}]{Richstone1998}
+{Richstone}, D., {Ajhar}, E.~A., {Bender}, R., {et~al.} 1998, \nat, 395, A14
+
+\bibitem[{{Rodr{\'{\i}}guez-Torres} {et~al.}(2016){Rodr{\'{\i}}guez-Torres},
+  {Chuang}, {Prada}, {Guo}, {Klypin}, {Behroozi}, {Hahn}, {Comparat}, {Yepes},
+  {Montero-Dorta}, {Brownstein}, {Maraston}, {McBride}, {Tinker},
+  {Gottl{\"o}ber}, {Favole}, {Shu}, {Kitaura}, {Bolton}, {Scoccimarro},
+  {Samushia}, {Schlegel}, {Schneider}, \& {Thomas}}]{RodriguezTorres2016}
+{Rodr{\'{\i}}guez-Torres}, S.~A., {Chuang}, C.-H., {Prada}, F., {et~al.} 2016,
+  \href{http://dx.doi.org/10.1093/mnras/stw1014}{\mnras, 460, 1173}
+
+\bibitem[{{Ross} {et~al.}(2009){Ross}, {Shen}, {Strauss}, {Vanden Berk},
+  {Connolly}, {Richards}, {Schneider}, {Weinberg}, {Hall}, {Bahcall}, \&
+  {Brunner}}]{Ross2009}
+{Ross}, N.~P., {Shen}, Y., {Strauss}, M.~A., {et~al.} 2009,
+  \href{http://dx.doi.org/10.1088/0004-637X/697/2/1634}{\apj, 697, 1634}
+
+\bibitem[{{Salpeter}(1964)}]{Salpeter1964}
+{Salpeter}, E.~E. 1964, \href{http://dx.doi.org/10.1086/147973}{\apj, 140, 796}
+
+\bibitem[{{Schlafly} \& {Finkbeiner}(2011)}]{Schlafly2011}
+{Schlafly}, E.~F., \& {Finkbeiner}, D.~P. 2011,
+  \href{http://dx.doi.org/10.1088/0004-637X/737/2/103}{\apj, 737, 103}
+
+\bibitem[{{Schlegel} {et~al.}(1998){Schlegel}, {Finkbeiner}, \&
+  {Davis}}]{Schlegel1998}
+{Schlegel}, D.~J., {Finkbeiner}, D.~P., \& {Davis}, M. 1998,
+  \href{http://dx.doi.org/10.1086/305772}{\apj, 500, 525}
+
+\bibitem[{{Schmidt} {et~al.}(1995){Schmidt}, {Schneider}, \&
+  {Gunn}}]{Schmidt1995}
+{Schmidt}, M., {Schneider}, D.~P., \& {Gunn}, J.~E. 1995,
+  \href{http://dx.doi.org/10.1086/117497}{\aj, 110, 68}
+
+\bibitem[{{Scranton} {et~al.}(2002){Scranton}, {Johnston}, {Dodelson},
+  {Frieman}, {Connolly}, {Eisenstein}, {Gunn}, {Hui}, {Jain}, {Kent},
+  {Loveday}, {Narayanan}, {Nichol}, {O'Connell}, {Scoccimarro}, {Sheth},
+  {Stebbins}, {Strauss}, {Szalay}, {Szapudi}, {Tegmark}, {Vogeley}, {Zehavi},
+  {Annis}, {Bahcall}, {Brinkman}, {Csabai}, {Hindsley}, {Ivezic}, {Kim},
+  {Knapp}, {Lamb}, {Lee}, {Lupton}, {McKay}, {Munn}, {Peoples}, {Pier},
+  {Richards}, {Rockosi}, {Schlegel}, {Schneider}, {Stoughton}, {Tucker},
+  {Yanny}, \& {York}}]{Scranton2002}
+{Scranton}, R., {Johnston}, D., {Dodelson}, S., {et~al.} 2002,
+  \href{http://dx.doi.org/10.1086/342786}{\apj, 579, 48}
+
+\bibitem[{{Shen} {et~al.}(2007){Shen}, {Strauss}, {Oguri}, {Hennawi}, {Fan},
+  {Richards}, {Hall}, {Gunn}, {Schneider}, {Szalay}, {Thakar}, {Vanden Berk},
+  {Anderson}, {Bahcall}, {Connolly}, \& {Knapp}}]{Shen2007}
+{Shen}, Y., {Strauss}, M.~A., {Oguri}, M., {et~al.} 2007,
+  \href{http://dx.doi.org/10.1086/513517}{\aj, 133, 2222}
+
+\bibitem[{{Shen} {et~al.}(2009){Shen}, {Strauss}, {Ross}, {Hall}, {Lin},
+  {Richards}, {Schneider}, {Weinberg}, {Connolly}, {Fan}, {Hennawi}, {Shankar},
+  {Vanden Berk}, {Bahcall}, \& {Brunner}}]{Shen2009}
+{Shen}, Y., {Strauss}, M.~A., {Ross}, N.~P., {et~al.} 2009,
+  \href{http://dx.doi.org/10.1088/0004-637X/697/2/1656}{\apj, 697, 1656}
+
+\bibitem[{{Shen} {et~al.}(2013){Shen}, {McBride}, {White}, {Zheng}, {Myers},
+  {Guo}, {Kirkpatrick}, {Padmanabhan}, {Parejko}, {Ross}, {Schlegel},
+  {Schneider}, {Streblyanska}, {Swanson}, {Zehavi}, {Pan}, {Bizyaev},
+  {Brewington}, {Ebelke}, {Malanushenko}, {Malanushenko}, {Oravetz}, {Simmons},
+  \& {Snedden}}]{Shen2013}
+{Shen}, Y., {McBride}, C.~K., {White}, M., {et~al.} 2013,
+  \href{http://dx.doi.org/10.1088/0004-637X/778/2/98}{\apj, 778, 98}
+
+\bibitem[{{Sherwin} {et~al.}(2012){Sherwin}, {Das}, {Hajian}, {Addison},
+  {Bond}, {Crichton}, {Devlin}, {Dunkley}, {Gralla}, {Halpern}, {Hill},
+  {Hincks}, {Hughes}, {Huffenberger}, {Hlozek}, {Kosowsky}, {Louis},
+  {Marriage}, {Marsden}, {Menanteau}, {Moodley}, {Niemack}, {Page}, {Reese},
+  {Sehgal}, {Sievers}, {Sif{\'o}n}, {Spergel}, {Staggs}, {Switzer}, \&
+  {Wollack}}]{Sherwin2012}
+{Sherwin}, B.~D., {Das}, S., {Hajian}, A., {et~al.} 2012,
+  \href{http://dx.doi.org/10.1103/PhysRevD.86.083006}{\prd, 86, 083006}
+
+\bibitem[{{Sheth} \& {Tormen}(1999)}]{ShethTormen1999}
+{Sheth}, R.~K., \& {Tormen}, G. 1999,
+  \href{http://dx.doi.org/10.1046/j.1365-8711.1999.02692.x}{\mnras, 308, 119}
+
+\bibitem[{{Simon}(2007)}]{Simon2007}
+{Simon}, P. 2007, \href{http://dx.doi.org/10.1051/0004-6361:20066352}{\aap,
+  473, 711}
+
+\bibitem[{{Smith} {et~al.}(2003){Smith}, {Peacock}, {Jenkins}, {White},
+  {Frenk}, {Pearce}, {Thomas}, {Efstathiou}, \& {Couchman}}]{Smith2003}
+{Smith}, R.~E., {Peacock}, J.~A., {Jenkins}, A., {et~al.} 2003,
+  \href{http://dx.doi.org/10.1046/j.1365-8711.2003.06503.x}{\mnras, 341, 1311}
+
+\bibitem[{{Soltan}(1982)}]{Soltan1982}
+{Soltan}, A. 1982, \href{http://dx.doi.org/10.1093/mnras/200.1.115}{\mnras,
+  200, 115}
+
+\bibitem[{{Spergel} {et~al.}(2013){Spergel}, {Gehrels}, {Breckinridge},
+  {Donahue}, {Dressler}, {Gaudi}, {Greene}, {Guyon}, {Hirata}, {Kalirai},
+  {Kasdin}, {Moos}, {Perlmutter}, {Postman}, {Rauscher}, {Rhodes}, {Wang},
+  {Weinberg}, {Centrella}, {Traub}, {Baltay}, {Colbert}, {Bennett},
+  {Kiessling}, {Macintosh}, {Merten}, {Mortonson}, {Penny}, {Rozo},
+  {Savransky}, {Stapelfeldt}, {Zu}, {Baker}, {Cheng}, {Content}, {Dooley},
+  {Foote}, {Goullioud}, {Grady}, {Jackson}, {Kruk}, {Levine}, {Melton},
+  {Peddie}, {Ruffa}, \& {Shaklan}}]{Spergel2013}
+{Spergel}, D., {Gehrels}, N., {Breckinridge}, J., {et~al.} 2013, ArXiv
+  e-prints, \href{http://arxiv.org/abs/1305.5422}{{\sffamily arXiv:1305.5422
+  [astro-ph.IM]}}
+
+\bibitem[{{Stern} {et~al.}(2005){Stern}, {Eisenhardt}, {Gorjian}, {Kochanek},
+  {Caldwell}, {Eisenstein}, {Brodwin}, {Brown}, {Cool}, {Dey}, {Green},
+  {Jannuzi}, {Murray}, {Pahre}, \& {Willner}}]{Stern2005}
+{Stern}, D., {Eisenhardt}, P., {Gorjian}, V., {et~al.} 2005,
+  \href{http://dx.doi.org/10.1086/432523}{\apj, 631, 163}
+
+\bibitem[{{Swanson} {et~al.}(2008){Swanson}, {Tegmark}, {Hamilton}, \&
+  {Hill}}]{Swanson2008}
+{Swanson}, M.~E.~C., {Tegmark}, M., {Hamilton}, A.~J.~S., \& {Hill}, J.~C.
+  2008, \href{http://dx.doi.org/10.1111/j.1365-2966.2008.13296.x}{\mnras, 387,
+  1391}
+
+\bibitem[{Taylor(2005)}]{TOPCAT}
+Taylor, M.~B. 2005, TOPCAT \& STIL: Starlink Table/VOTable Processing Software
+
+\bibitem[{{Timlin} {et~al.}(2016){Timlin}, {Ross}, {Richards}, {Lacy}, {Ryan},
+  {Stone}, {Bauer}, {Brandt}, {Fan}, {Glikman}, {Haggard}, {Jiang}, {LaMassa},
+  {Lin}, {Makler}, {McGehee}, {Myers}, {Schneider}, {Urry}, {Wollack}, \&
+  {Zakamska}}]{Timlin2016}
+{Timlin}, J.~D., {Ross}, N.~P., {Richards}, G.~T., {et~al.} 2016,
+  \href{http://dx.doi.org/10.3847/0067-0049/225/1/1}{\apjs, 225, 1}
+
+\bibitem[{{Tinker} {et~al.}(2010){Tinker}, {Robertson}, {Kravtsov}, {Klypin},
+  {Warren}, {Yepes}, \& {Gottl{\"o}ber}}]{Tinker2010}
+{Tinker}, J.~L., {Robertson}, B.~E., {Kravtsov}, A.~V., {et~al.} 2010,
+  \href{http://dx.doi.org/10.1088/0004-637X/724/2/878}{\apj, 724, 878}
+
+\bibitem[{{Totsuji} \& {Kihara}(1969)}]{Totsuji1969}
+{Totsuji}, H., \& {Kihara}, T. 1969, \pasj, 21, 221
+
+\bibitem[{{Weinstein} {et~al.}(2004){Weinstein}, {Richards}, {Schneider},
+  {Younger}, {Strauss}, {Hall}, {Budav{\'a}ri}, {Gunn}, {York}, \&
+  {Brinkmann}}]{Weinstein2004}
+{Weinstein}, M.~A., {Richards}, G.~T., {Schneider}, D.~P., {et~al.} 2004,
+  \href{http://dx.doi.org/10.1086/425355}{\apjs, 155, 243}
+
+\bibitem[{{White} {et~al.}(2012){White}, {Myers}, {Ross}, {Schlegel},
+  {Hennawi}, {Shen}, {McGreer}, {Strauss}, {Bolton}, {Bovy}, {Fan},
+  {Miralda-Escude}, {Palanque-Delabrouille}, {Paris}, {Petitjean}, {Schneider},
+  {Viel}, {Weinberg}, {Yeche}, {Zehavi}, {Pan}, {Snedden}, {Bizyaev},
+  {Brewington}, {Brinkmann}, {Malanushenko}, {Malanushenko}, {Oravetz},
+  {Simmons}, {Sheldon}, \& {Weaver}}]{White2012}
+{White}, M., {Myers}, A.~D., {Ross}, N.~P., {et~al.} 2012,
+  \href{http://dx.doi.org/10.1111/j.1365-2966.2012.21251.x}{\mnras, 424, 933}
+
+\bibitem[{{Worseck} \& {Prochaska}(2011)}]{Worseck2011}
+{Worseck}, G., \& {Prochaska}, J.~X. 2011,
+  \href{http://dx.doi.org/10.1088/0004-637X/728/1/23}{\apj, 728, 23}
+
+\bibitem[{{Wright} {et~al.}(2010){Wright}, {Eisenhardt}, {Mainzer}, {Ressler},
+  {Cutri}, {Jarrett}, {Kirkpatrick}, {Padgett}, {McMillan}, {Skrutskie},
+  {Stanford}, {Cohen}, {Walker}, {Mather}, {Leisawitz}, {Gautier}, {McLean},
+  {Benford}, {Lonsdale}, {Blain}, {Mendez}, {Irace}, {Duval}, {Liu}, {Royer},
+  {Heinrichsen}, {Howard}, {Shannon}, {Kendall}, {Walsh}, {Larsen}, {Cardon},
+  {Schick}, {Schwalm}, {Abid}, {Fabinsky}, {Naes}, \& {Tsai}}]{Wright2010}
+{Wright}, E.~L., {Eisenhardt}, P.~R.~M., {Mainzer}, A.~K., {et~al.} 2010,
+  \href{http://dx.doi.org/10.1088/0004-6256/140/6/1868}{\aj, 140, 1868}
+
+\bibitem[{{York} {et~al.}(2000){York}, {Adelman}, {Anderson}, {Anderson},
+  {Annis}, {Bahcall}, {Bakken}, {Barkhouser}, {Bastian}, {Berman}, {Boroski},
+  {Bracker}, {Briegel}, {Briggs}, {Brinkmann}, {Brunner}, {Burles}, {Carey},
+  {Carr}, {Castander}, {Chen}, {Colestock}, {Connolly}, {Crocker}, {Csabai},
+  {Czarapata}, {Davis}, {Doi}, {Dombeck}, {Eisenstein}, {Ellman}, {Elms},
+  {Evans}, {Fan}, {Federwitz}, {Fiscelli}, {Friedman}, {Frieman}, {Fukugita},
+  {Gillespie}, {Gunn}, {Gurbani}, {de Haas}, {Haldeman}, {Harris}, {Hayes},
+  {Heckman}, {Hennessy}, {Hindsley}, {Holm}, {Holmgren}, {Huang}, {Hull},
+  {Husby}, {Ichikawa}, {Ichikawa}, {Ivezi{\'c}}, {Kent}, {Kim}, {Kinney},
+  {Klaene}, {Kleinman}, {Kleinman}, {Knapp}, {Korienek}, {Kron}, {Kunszt},
+  {Lamb}, {Lee}, {Leger}, {Limmongkol}, {Lindenmeyer}, {Long}, {Loomis},
+  {Loveday}, {Lucinio}, {Lupton}, {MacKinnon}, {Mannery}, {Mantsch}, {Margon},
+  {McGehee}, {McKay}, {Meiksin}, {Merelli}, {Monet}, {Munn}, {Narayanan},
+  {Nash}, {Neilsen}, {Neswold}, {Newberg}, {Nichol}, {Nicinski}, {Nonino},
+  {Okada}, {Okamura}, {Ostriker}, {Owen}, {Pauls}, {Peoples}, {Peterson},
+  {Petravick}, {Pier}, {Pope}, {Pordes}, {Prosapio}, {Rechenmacher}, {Quinn},
+  {Richards}, {Richmond}, {Rivetta}, {Rockosi}, {Ruthmansdorfer}, {Sandford},
+  {Schlegel}, {Schneider}, {Sekiguchi}, {Sergey}, {Shimasaku}, {Siegmund},
+  {Smee}, {Smith}, {Snedden}, {Stone}, {Stoughton}, {Strauss}, {Stubbs},
+  {SubbaRao}, {Szalay}, {Szapudi}, {Szokoly}, {Thakar}, {Tremonti}, {Tucker},
+  {Uomoto}, {Vanden Berk}, {Vogeley}, {Waddell}, {Wang}, {Watanabe},
+  {Weinberg}, {Yanny}, {Yasuda}, \& {SDSS Collaboration}}]{York2000}
+{York}, D.~G., {Adelman}, J., {Anderson}, Jr., J.~E., {et~al.} 2000,
+  \href{http://dx.doi.org/10.1086/301513}{\aj, 120, 1579}
+
+\bibitem[{{Zehavi} {et~al.}(2011){Zehavi}, {Zheng}, {Weinberg}, {Blanton},
+  {Bahcall}, {Berlind}, {Brinkmann}, {Frieman}, {Gunn}, {Lupton}, {Nichol},
+  {Percival}, {Schneider}, {Skibba}, {Strauss}, {Tegmark}, \&
+  {York}}]{Zehavi2011}
+{Zehavi}, I., {Zheng}, Z., {Weinberg}, D.~H., {et~al.} 2011,
+  \href{http://dx.doi.org/10.1088/0004-637X/736/1/59}{\apj, 736, 59}
+
+\end{thebibliography}

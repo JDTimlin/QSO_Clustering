@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Highz_clustering_edited.aux
+The style file: yahapj.bst
+Database file #1: Highz_clustering_editedNotes.bib
+Database file #2: ms.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty publisher in Feigelson2012
+Warning--empty publisher in Ivezic2014
+Warning--empty publisher in Peacock_book1999
+Warning--empty publisher in Peebles1980
+You've used 94 entries,
+            3201 wiz_defined-function locations,
+            1392 strings with 52654 characters,
+and the built_in function-call counts, 65210 in all, are:
+= -- 3909
+> -- 7105
+< -- 24
++ -- 2508
+- -- 2472
+* -- 6802
+:= -- 12560
+add.period$ -- 94
+call.type$ -- 94
+change.case$ -- 551
+chr.to.int$ -- 94
+cite$ -- 98
+duplicate$ -- 2515
+empty$ -- 3228
+format.name$ -- 2582
+if$ -- 12397
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 87
+newline$ -- 286
+num.names$ -- 379
+pop$ -- 888
+preamble$ -- 1
+purify$ -- 551
+quote$ -- 0
+skip$ -- 1540
+stack$ -- 0
+substring$ -- 2190
+swap$ -- 83
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 834
+warning$ -- 4
+while$ -- 391
+width$ -- 0
+write$ -- 938
+(There were 4 warnings)

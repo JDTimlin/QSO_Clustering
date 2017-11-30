@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section*.1}{ABSTRACT}{section*.2}% 1
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 2
+\BOOKMARK [1][-]{section.2}{Data and Selection}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{SpIES, SHELA and SDSS Stripe 82}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Test and Training Sets}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.3}{Classification Algorithms}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.4}{Photometric Redshifts}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.5}{Clustering Sample}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Clustering}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Two-Point Correlation Function}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Estimating the Correlation Function}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Measuring bias}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Results}{}% 13
+\BOOKMARK [2][-]{subsection.4.1}{Projected Clustering}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.2}{Faint Quasar Clustering}{section.4}% 15
+\BOOKMARK [1][-]{section.5}{Implications}{}% 16
+\BOOKMARK [2][-]{subsection.5.1}{Comparison to Other Observations}{section.5}% 17
+\BOOKMARK [2][-]{subsection.5.2}{Dark Matter Halo Mass}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.3}{Implications for Feedback}{section.5}% 19
+\BOOKMARK [1][-]{section.6}{Summary}{}% 20
+\BOOKMARK [1][-]{appendix.A}{Contamination Checks}{}% 21
+\BOOKMARK [2][-]{subsection.A.1}{Extinction Cut}{appendix.A}% 22
+\BOOKMARK [2][-]{subsection.A.2}{Visual Inspection}{appendix.A}% 23
