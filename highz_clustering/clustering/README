@@ -1,0 +1,41 @@
+# This document contains both file locations and instructions on how to reproduce the results from Timlin et al. 2018. 
+
+## Where is the Data?
+
+### Clustering data set:
+The quasar candidate data is located in the Data_Sets folder within this directory. The data that I run the clustering routine is located here:
+../Data_Sets/HZLZ_combined_all_hzclassifiers_wphotoz_zspecflg.fits 
+and the random set is:
+../Data_Sets/Short_randoms_spsh.fits
+
+### Plotting
+The data set that I use for plotting (most) of my data is found within this directory. The Final Clustering set is located here:
+../Compute_correlation2/Final_Clustering_All.txt
+and
+../Compute_correlation2/Final_Clustering_All_JK.txt
+
+### Other data sets
+The other sets of data that I have are also all contained within the Clustering/ directory, and thus the paths to these data sets (e.g. Shen 2007, etc.) in the code are correct, thus the code should just run.
+
+## Code:
+
+### There are many variations of the code, most of which was simply for test purposes. Here I list the Final code used to compute the correlation function and generate the plots in Timlin et al. 2018.
+
+#### I would recommend not re-running this code unless you want to change the JK fields
+If you wish to reproduce the results of the clustering, or change any part of the clustering analysis, you should use the code:
+
+Clustering/Compute_Correlation2/Angular_Correlation_Stable.py
+
+This code is not commented in great detail, however there are a few. Mostly what this code does is set up the data, run the astroML code, and define the Jackknife fields. 
+
+Using the output of this code, I then generate ~15 plots to put into the paper. The majority of these plots are located here:
+
+Clustering/All_info_plots/Referee_Report.ipynb
+
+There are some additional plots here (Comparing estimators, Checking the regression matrix) but the majority of the science plots are in this code.
+
+The final redshift histogram, the color-color plots, color-redshift plot, and absolute magnitude plot are located:
+
+Clustering/All_info_plots/All_plots2
+
+Note that this code uses the hex_scatter code from Colemans desnisty plot package (on his github). Also note that the plots at the beginning of the code are the only relevant plots (I mark where to stop). Everything else is simply a test. 
