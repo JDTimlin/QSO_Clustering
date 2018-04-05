@@ -1,3 +1,21 @@
 For instructions on how to run this code, see the README files within the classification/ and clustering/ folders respectively.
 
 Those files will instruct you on how to reproduce the plots from Timlin et al. 2018, as well as direct you to relevant data files.
+
+The final Clustering Data Set can be found in the following directory:
+
+./clustering/Data_Sets/HZLZ_combined_all_hzclassifiers_wphotoz_zspecflg.fits
+
+and the randoms can be found here:
+
+./clustering/Data_Sets/Short_randoms_spsh.fits
+
+The pair counts results can be found here:
+
+./clustering/Compute_correlation2/Final_Clustering_All.txt
+
+and the jackknife set:
+
+./clustering/Compute_correlation2/Final_Clustering_All_JK.txt
+
+
