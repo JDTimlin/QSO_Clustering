@@ -1,0 +1,22 @@
+# To run the classification again (I would not suggest doing it), run the following code:
+
+### For Low-z selection
+Classification/dirac/QSO_Candidates/Code/SpIESHighzQuasarsS82all_JTmultiproc_lz.py
+
+### For High-z selection
+Classification/dirac/QSO_Candidates/Code/SpIESHighzQuasarsS82all_JTmultiproc.py
+
+### The 'final' candidate catalog was created as described in Timlin++ 2018, however once the appropriate cuts are made (based on the classifications) the photo-z code is located here:
+
+Classification/SpIESHighzQuasarPhotoz2.ipynb
+
+### Simply input the catalog into the above file. This can be done before the final cuts, however more objects make the code take longer to assign redshifts. Certainly don't run this until you at least cut to the quasars that any of the algorithms selected
+
+### You can then cut to the final mask by running three codes:
+With MANGLE run:
+polyid SpShSt_unif2.pol (Candidate infile) (outfile)
+followed by (after changing the appropriate files in the code):
+Classification/catalogs/Cand_in_SpIES.py
+Classification/catalogs/Final_Candidates_tocluster_with_all_cuts.ipynb
+
+### Then move to the clustering folder
